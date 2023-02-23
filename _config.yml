@@ -6,10 +6,10 @@
 # --- Required options --- #
 
 # Name of website
-title: "JeffShee@ねくもりそふと"
+title: "Devshimitsu"
 
 # Your name to show in the footer
-author: "JeffShee@ねくもりそふと"
+author: "Devshimitsu"
 
 # --- List of links in the navigation bar --- #
 
@@ -39,11 +39,11 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "jeffshee8969@gmail.com"
-  facebook: jeffshee8969
-  twitter: jeffshee8969
-  github: jeffshee
-  reddit: jeffshee
+  email: "kartikbisht2006@gmail.com"
+  facebook: kartik.bisht.1481
+  twitter: devshimitsu
+  github: Devshimitsu
+  reddit: devshimitsu
 #  linkedin: daattali
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
@@ -76,7 +76,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "jeffshee.github.io"
+url-pretty: "devshimitsu.github.io"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
@@ -88,7 +88,7 @@ feed_show_excerpt: true
 feed_show_tags: true
 
 # The keywords to associate with your website, for SEO purposes
-keywords: "jeffshee,nekumori,github"
+keywords: "devshimitsu,kartik,github"
 
 # --- Colours / background image --- #
 
