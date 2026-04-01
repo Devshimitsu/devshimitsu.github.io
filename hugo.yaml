@@ -1,0 +1,25 @@
+baseURL: "https://your-site.netlify.app/"
+languageCode: "en-us"
+title: "devshimitsu.github.io"
+theme: ["PaperMod"]
+
+pagination:
+  pagerSize: 10
+
+params:
+  defaultTheme: auto
+
+  homeInfoParams:
+    Title: "Hi 👋"
+    Content: "Welcome to devshimitsu.github.io"
+
+  ShowReadingTime: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+
+menu:
+  main:
+    - identifier: posts
+      name: Posts
+      url: /posts/
+      weight: 10
