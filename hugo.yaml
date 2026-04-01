@@ -15,21 +15,21 @@ params:
       🎓 B.Tech student at GJUST, Hisar  
       🕵️ Passionate about ethical hacking, CTFs, and security research  
       🧠 Exploring web security, reverse engineering, scripting, and automations  
-      📚 Always leveling up with new tools, exploits, and tech 
-    socialIcons:
-    - name: github
-        url: https://github.com/devshimitsu
-    - name: linkedin
-        url: https://www.linkedin.com/in/cartickk/
-    - name: twitter
-        url: https://twitter.com/devshimitsu
-    - name: instagram
-        url: https://www.instagram.com/devshimitsu/
-    - name: steam
-        url: https://steamcommunity.com/profiles/76561199065326480
-    - name: reddit
-        url: https://www.reddit.com/u/devshimitsu
+      📚 Always leveling up with new tools, exploits, and tech  
 
+  socialIcons:
+    - name: github
+      url: https://github.com/devshimitsu
+    - name: linkedin
+      url: https://www.linkedin.com/in/cartickk/
+    - name: twitter
+      url: https://twitter.com/devshimitsu
+    - name: instagram
+      url: https://www.instagram.com/devshimitsu/
+    - name: steam
+      url: https://steamcommunity.com/profiles/76561199065326480
+    - name: reddit
+      url: https://www.reddit.com/u/devshimitsu
 
   ShowReadingTime: true
   ShowPostNavLinks: true
@@ -38,16 +38,16 @@ params:
 menu:
   main:
     - identifier: home
-        name: Home
-        url: /
-        weight: 10
+      name: Home
+      url: /
+      weight: 10
 
     - identifier: posts
       name: Posts
       url: /posts/
-      weight: 10
-      
+      weight: 20
+
     - identifier: search
       name: Search
       url: /search/
-      weight: 20
+      weight: 30
