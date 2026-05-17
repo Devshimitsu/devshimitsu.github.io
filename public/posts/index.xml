@@ -6,6 +6,15 @@
     <description>Recent content in Posts on devshimitsu.github.io</description>
     <generator>Hugo</generator>
     <language>en-us</language>
+    <lastBuildDate>Thu, 02 Apr 2026 22:51:00 +0530</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Galaxy Buds on Desktop: Reclaiming Control via Reverse Engineering</title>
+      <link>http://localhost:1313/posts/galaxy-buds-on-desktop/</link>
+      <pubDate>Thu, 02 Apr 2026 22:51:00 +0530</pubDate>
+      <guid>http://localhost:1313/posts/galaxy-buds-on-desktop/</guid>
+      <description>&lt;p&gt;If you&amp;rsquo;re rocking Samsung Galaxy Buds on desktop, you&amp;rsquo;ve probably realized the experience is a bit of a mixed bag. Sure, Samsung has an official app on the Windows Store, but it&amp;rsquo;s notoriously hit-or-miss—often bloated, restricted to specific models, and a total no-go if you&amp;rsquo;re on Linux.&lt;/p&gt;
+&lt;p&gt;Most of the time, we&amp;rsquo;re just expected to be happy with a stable A2DP connection. But missing out on EQ profiles, ANC toggles, and firmware updates feels like you&amp;rsquo;re only getting half the hardware you paid for.&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
